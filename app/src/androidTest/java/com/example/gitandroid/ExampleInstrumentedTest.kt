@@ -21,5 +21,6 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.gitandroid", appContext.packageName)
         //added comment
+        //new comment in uiiii
     }
 }
